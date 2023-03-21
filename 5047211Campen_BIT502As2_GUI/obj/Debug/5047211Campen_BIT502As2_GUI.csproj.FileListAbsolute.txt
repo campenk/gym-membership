@@ -1,0 +1,10 @@
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\bin\Debug\5047211Campen_BIT502As2_GUI.exe.config
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\bin\Debug\5047211Campen_BIT502As2_GUI.exe
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\bin\Debug\5047211Campen_BIT502As2_GUI.pdb
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\5047211Campen_BIT502As2_GUI.csproj.AssemblyReference.cache
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\_5047211Campen_BIT502As2_GUI.Form1.resources
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\_5047211Campen_BIT502As2_GUI.Properties.Resources.resources
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\5047211Campen_BIT502As2_GUI.csproj.GenerateResource.cache
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\5047211Campen_BIT502As2_GUI.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\5047211Campen_BIT502As2_GUI.exe
+C:\Users\kelly\Dropbox\Kelly\Work\Open Polytech\BIT502 Fundamentals of Programming\Assignment 2\5047211Campen_BIT502As2_GUI\5047211Campen_BIT502As2_GUI\obj\Debug\5047211Campen_BIT502As2_GUI.pdb
